@@ -13,10 +13,8 @@
   font-weight: bold;
 }
 
-.devto-link a:hover{
-  
-  color: rgb(0, 0, 201);
-  
+.devto-link a:hover{  
+  color: rgb(0, 0, 201);  
 }
 
 .blog-text-section{
