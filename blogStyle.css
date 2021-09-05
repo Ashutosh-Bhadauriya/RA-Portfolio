@@ -2,6 +2,23 @@
   background-color: white;
 }
 
+.devto-link{
+  margin-left: 330px;  
+  color: gray;  
+}
+
+.devto-link a{
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+.devto-link a:hover{
+  
+  color: rgb(0, 0, 201);
+  
+}
+
 .blog-text-section{
   display: flex;
   flex-direction: column;
