@@ -47,3 +47,17 @@
   font-size: 25px;
   line-height: 40px;
 }
+
+
+@media (max-width: 900px) {
+  .devto-link{
+    margin-left: 20px;  
+    width: 80%;  
+  }
+
+  .blog-text-section{    
+    width: 80%;    
+    margin-left: 20px;   
+  } 
+
+}

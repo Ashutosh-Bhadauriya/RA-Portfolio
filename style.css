@@ -303,9 +303,45 @@ hr {
 }
 
 @media (max-width: 900px) {
-  body {
-    max-width: 95%;
+  body {   
     width: 100%;
+  }
+
+  .hero {    
+    flex-direction: column;        
+    margin-left: 0px;  
+    width: 100%;  
+  }
+
+  .hero-heading {    
+    line-height: 65px;
+    margin-left: 20px;    
+  }
+
+  .skill-image-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project-container {
+    flex-direction: column;
+  }
+
+  .heading-inverted {    
+    font-size: 55px;    
+  } 
+  
+  .hero p {
+    width: 70%;
+    margin-left: 20px;    
+  }
+  
+
+  
+
+  
+  .sub-heading {
+    margin-left: 20px;
   }
 
   .list-item-inline {
